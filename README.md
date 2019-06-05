@@ -14,6 +14,6 @@ pip install -U scikit-learn
  The model.pkl is the regression model that is used for forecasting -> It can be replaced later in future work with another
  model with the same name.
  
- The forecasts table in database will be emptied everyday a 12 am.
+ The forecasts table in database will be emptied everyday at 12 am.
 
  
